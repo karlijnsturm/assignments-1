@@ -10,3 +10,6 @@ This repository contains my assignments
 [assignment 4](https://github.com/TomMeeuwissen/assignments/blob/master/Assignment4%20week%206.ipynb)
 
 [assignment 5](https://github.com/TomMeeuwissen/assignments/blob/master/assignment5.ipynb)
+
+[Final R assignment](https://github.com/TomMeeuwissen/assignments/blob/master/OECD_R_exam+final+version.ipynb)
+
